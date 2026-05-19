@@ -46,17 +46,7 @@ The dataset contains corporate financial performance information including:
 
 ---
 
-## Sector Performance
 
-![Sector Performance](Screenshots/Sector_Performance.png)
-
----
-
-## Valuation Multiples
-
-![Valuation Multiples](Screenshots/Valuation_Multiples.png)
-
----
 
 # 📈 Key Insights
 
