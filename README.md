@@ -42,7 +42,7 @@ The dataset contains corporate financial performance information including:
 
 ## Main Dashboard
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Financial_dashboard.png)
 
 ---
 
